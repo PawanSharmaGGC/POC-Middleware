@@ -1,0 +1,36 @@
+D:\Projects 2025\POC - Middleware\POC - Middleware\bin\Debug\net8.0\appsettings.Development.json
+D:\Projects 2025\POC - Middleware\POC - Middleware\bin\Debug\net8.0\appsettings.json
+D:\Projects 2025\POC - Middleware\POC - Middleware\bin\Debug\net8.0\POC - Middleware.staticwebassets.endpoints.json
+D:\Projects 2025\POC - Middleware\POC - Middleware\bin\Debug\net8.0\POC - Middleware.exe
+D:\Projects 2025\POC - Middleware\POC - Middleware\bin\Debug\net8.0\POC - Middleware.deps.json
+D:\Projects 2025\POC - Middleware\POC - Middleware\bin\Debug\net8.0\POC - Middleware.runtimeconfig.json
+D:\Projects 2025\POC - Middleware\POC - Middleware\bin\Debug\net8.0\POC - Middleware.dll
+D:\Projects 2025\POC - Middleware\POC - Middleware\bin\Debug\net8.0\POC - Middleware.pdb
+D:\Projects 2025\POC - Middleware\POC - Middleware\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Projects 2025\POC - Middleware\POC - Middleware\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects 2025\POC - Middleware\POC - Middleware\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects 2025\POC - Middleware\POC - Middleware\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects 2025\POC - Middleware\POC - Middleware\obj\Debug\net8.0\POC - Middleware.csproj.AssemblyReference.cache
+D:\Projects 2025\POC - Middleware\POC - Middleware\obj\Debug\net8.0\POC - Middleware.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects 2025\POC - Middleware\POC - Middleware\obj\Debug\net8.0\POC - Middleware.AssemblyInfoInputs.cache
+D:\Projects 2025\POC - Middleware\POC - Middleware\obj\Debug\net8.0\POC - Middleware.AssemblyInfo.cs
+D:\Projects 2025\POC - Middleware\POC - Middleware\obj\Debug\net8.0\POC - Middleware.csproj.CoreCompileInputs.cache
+D:\Projects 2025\POC - Middleware\POC - Middleware\obj\Debug\net8.0\POC - Middleware.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects 2025\POC - Middleware\POC - Middleware\obj\Debug\net8.0\POC - Middleware.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects 2025\POC - Middleware\POC - Middleware\obj\Debug\net8.0\scopedcss\bundle\POC - Middleware.styles.css
+D:\Projects 2025\POC - Middleware\POC - Middleware\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projects 2025\POC - Middleware\POC - Middleware\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projects 2025\POC - Middleware\POC - Middleware\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Projects 2025\POC - Middleware\POC - Middleware\obj\Debug\net8.0\staticwebassets\msbuild.POC - Middleware.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects 2025\POC - Middleware\POC - Middleware\obj\Debug\net8.0\staticwebassets\msbuild.POC - Middleware.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Projects 2025\POC - Middleware\POC - Middleware\obj\Debug\net8.0\staticwebassets\msbuild.build.POC - Middleware.props
+D:\Projects 2025\POC - Middleware\POC - Middleware\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.POC - Middleware.props
+D:\Projects 2025\POC - Middleware\POC - Middleware\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.POC - Middleware.props
+D:\Projects 2025\POC - Middleware\POC - Middleware\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Projects 2025\POC - Middleware\POC - Middleware\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Projects 2025\POC - Middleware\POC - Middleware\obj\Debug\net8.0\POC - Mi.BB6E3B91.Up2Date
+D:\Projects 2025\POC - Middleware\POC - Middleware\obj\Debug\net8.0\POC - Middleware.dll
+D:\Projects 2025\POC - Middleware\POC - Middleware\obj\Debug\net8.0\refint\POC - Middleware.dll
+D:\Projects 2025\POC - Middleware\POC - Middleware\obj\Debug\net8.0\POC - Middleware.pdb
+D:\Projects 2025\POC - Middleware\POC - Middleware\obj\Debug\net8.0\POC - Middleware.genruntimeconfig.cache
+D:\Projects 2025\POC - Middleware\POC - Middleware\obj\Debug\net8.0\ref\POC - Middleware.dll

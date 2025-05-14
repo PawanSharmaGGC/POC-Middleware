@@ -1,0 +1,6 @@
+@POC___Middleware_HostAddress = http://localhost:5011
+
+GET {{POC___Middleware_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
